@@ -2,7 +2,7 @@
 
 ### Lightning McQueens
 
-#### Welcome to our submission for Span's MIT Energy Hack 22 Challenge.
+#### Welcome to our submission for Span's MIT Energy Hack 22 Challenge. Winner of the Span Challenge!
 
 ##### To see our interactive visualizations, please clone the repo, cd into it, and run these commands in the command line:
 - python3 -m venv venv    
